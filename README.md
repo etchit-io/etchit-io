@@ -29,6 +29,13 @@ Permanent, decentralized text storage on the [Autonomi](https://autonomi.com) ne
 
 <img src="https://raw.githubusercontent.com/etchit-io/etchit-io/main/screenshots/desktop-editor.png" alt="Desktop — fullscreen editor with HTML highlighting" width="900">
 
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/etchit-io/etchit-io/main/screenshots/desktop-private.png" alt="Desktop — creating a private etch" width="440"></td>
+<td><img src="https://raw.githubusercontent.com/etchit-io/etchit-io/main/screenshots/desktop-private-fetch.png" alt="Desktop — fetching a private etch with auto-detected HTML highlighting" width="440"></td>
+</tr>
+</table>
+
 [Latest build (Linux) →](https://github.com/etchit-io/etchit-desktop/releases/latest)
 
 ---

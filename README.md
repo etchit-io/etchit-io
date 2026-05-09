@@ -1,4 +1,4 @@
-# etch / it
+# etch/it
 
 > *Etch it once. Fetch it forever.*
 

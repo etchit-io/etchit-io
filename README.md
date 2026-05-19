@@ -8,44 +8,23 @@ Permanent, decentralized publishing on the [Autonomi](https://autonomi.com) netw
 
 | Client | What it does |
 |---|---|
-| **[Android](https://github.com/etchit-io/etchit)** | Etch · fetch · private etches · backups · chain/it sync · simple blog composer with QR share |
-| **[Desktop](https://github.com/etchit-io/etchit-desktop)** | Same flows · 13-language syntax highlighting · Linux today (Windows + macOS coming) |
-| **[Web viewer](https://etchit.io/chainmarks.html)** | Read-only chainmark viewer — no install needed |
+| **[Desktop](https://github.com/etchit-io/etchit-desktop)** | Mac · Windows · Linux. Etch · fetch · private etches · backups · 13-language syntax highlighting · screenshot-to-etch · built-in blogger & website builder · branded QR share. macOS build signed & notarized. |
+| **[Android](https://github.com/etchit-io/etchit)** | Etch · fetch · private etches · backups · branded QR share. |
 
-## Reader (fetch>it)
+## Readers (fetch>it)
 
 | Client | What it does |
 |---|---|
-| **[Android](https://github.com/etchit-io/fetchit)** | Paste a 64-hex address → see what's there. Text, images, audio, video, PDF, archives, code with syntax highlighting, HTML/SPAs, etch/it envelopes, markdown. No wallet, no signing, no node to run. |
+| **[Desktop](https://github.com/etchit-io/fetchit)** | Mac · Windows · Linux. Paste a 64-hex address → see what's there. Text, images, audio, video, PDF, archives, code with syntax highlighting, HTML/SPAs, etch/it envelopes, markdown. No wallet, no signing, no node to run. macOS build signed & notarized. |
+| **[Android](https://github.com/etchit-io/fetchit)** | Same renderers, on the go. |
+| **[iOS](https://github.com/etchit-io/fetchit-iOS)** | Private TestFlight beta — limited slots. Email [hello@etchit.io](mailto:hello@etchit.io) if you want one. Open beta when Apple approves. |
+
+## Browser extension
+
+Chrome · Edge · Brave · Arc · Firefox. Highlights `autonomi://…` addresses on any clear-web page and routes clicks to your installed fetch>it desktop app — without it, browsers silently block the scheme.
+
+[Install steps & download →](https://etchit.io/release.html#extension)
 
 ---
 
-## Android
-
-<table>
-<tr>
-<td><img src="https://raw.githubusercontent.com/etchit-io/etchit-io/main/screenshots/android-home.jpg" alt="Android — home" width="320"></td>
-<td><img src="https://raw.githubusercontent.com/etchit-io/etchit-io/main/screenshots/android-editor.jpg" alt="Android — fullscreen editor with Bash highlighting" width="320"></td>
-</tr>
-</table>
-
-[Latest APK →](https://github.com/etchit-io/etchit/releases/latest)
-
-## Desktop
-
-<img src="https://raw.githubusercontent.com/etchit-io/etchit-io/main/screenshots/desktop-home.png" alt="Desktop — home panel" width="900">
-
-<img src="https://raw.githubusercontent.com/etchit-io/etchit-io/main/screenshots/desktop-editor.png" alt="Desktop — fullscreen editor with HTML highlighting" width="900">
-
-<table>
-<tr>
-<td><img src="https://raw.githubusercontent.com/etchit-io/etchit-io/main/screenshots/desktop-private.png" alt="Desktop — creating a private etch" width="440"></td>
-<td><img src="https://raw.githubusercontent.com/etchit-io/etchit-io/main/screenshots/desktop-private-fetch.png" alt="Desktop — fetching a private etch with auto-detected HTML highlighting" width="440"></td>
-</tr>
-</table>
-
-[Latest build (Linux) →](https://github.com/etchit-io/etchit-desktop/releases/latest)
-
----
-
-[**Learn how it works →**](https://etchit.io/learn.html)
+[**Try the demo city →**](https://etchit.io/city/)  ·  [**Learn how it works →**](https://etchit.io/learn.html)
